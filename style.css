@@ -1,0 +1,134 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+.intro{
+    background-image: url(./Assets/wp12278588-mighty-morphin-power-rangers-once-always-wallpapers.jpg);
+    min-height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    /* border: 2px solid black; */
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.redRanger{
+    background-image: url(./Assets/red-ranger-power-rangers-4k-wallpaper-preview.jpg);
+    min-height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blueRanger{
+    background-image: url(./Assets/blue-ranger-power-rangers-4k-wallpaper.jpg);
+    min-height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blackRanger{
+    background-image: url(./Assets/movie-power-rangers-2017-black-ranger-power-rangers-wallpaper-preview.jpg);
+    min-height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.yellowRanger{
+    background-image: url(./Assets/yellow-ranger-power-rangers-4k-wallpaper-preview.jpg);
+    min-height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pinkRanger{
+    background-image: url(./Assets/742049.jpg);
+    min-height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.greenRanger{
+    background-image: url(./Assets/wp3900506-green-ranger-wallpapers.png);
+    min-height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.legacyAll{
+    margin-bottom: 150px;
+    text-align: center;
+
+
+}
+.legacyRed{
+    text-align: center;
+}
+span{
+    padding: 10px 40px;
+    border-radius: 20px;
+    color: white;
+}
+.text{
+    background-color: rgb(124, 27, 10);
+}
+.redText{
+    background-color: crimson;
+}
+.blueText{
+    background-color: blue;
+}
+.blackText{
+    background-color: black;
+}
+.yellowText{
+    background-color: rgb(192, 192, 13);
+}
+.pinkText{
+    background-color: rgb(192, 87, 105);
+}
+.greenText{
+    background-color: rgb(2, 43, 2);
+}
+.know{
+    padding: 30px 80px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    display: none;
+}
